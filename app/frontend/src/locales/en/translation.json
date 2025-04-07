@@ -1,5 +1,5 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Clever Kid",
     "headerTitle": "Azure OpenAI + AI Search",
     "chat": "Chat",
     "qa": "Ask a question",
@@ -37,17 +37,17 @@
     "chatEmptyStateTitle": "Chat with your data",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "Write a lesson plan for a 5th grade science class.",
+        "2": "Write a poem about the ocean.",
+        "3": "What are the latest trends in artificial intelligence?",
+        "placeholder": "Type a new question (e.g. what is coding and robotics?)"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
-        "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "1": "What is the sentiment of this image?",
+        "2": "What are the key features in this image?",
+        "3": "What is the main subject of this image?",
+        "placeholder": "Type a new question (e.g. what is this image about?)"
     },
     "generatingAnswer": "Generating answer",
     "citationWithColon": "Citation:",

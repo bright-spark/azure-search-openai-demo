@@ -1,6 +1,6 @@
 {
     "pageTitle": "Clever Kid",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "headerTitle": "Clever Kid Agent",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -32,7 +32,7 @@
         "errorDeleting": "Error deleting.",
         "fileDeleted": "File deleted"
     },
-    "developerSettings": "Developer settings",
+    "developerSettings": "Teacher settings",
 
     "chatEmptyStateTitle": "Chat with your data",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
